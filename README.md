@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hola 👋 , soy Daniel J. Saldaña</h1>
+<h3 align="center">DevOps/SRE</h3>
+<p align="center">
+    
+</p>
 
-<!--
-**danieljesussp/danieljesussp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy DevOps/SRE🔥, con un background de SysAdmin y especializado en provedores Cloud como AWS, Azure y GCP. Dispongo de un fuerte dominio de Arquitectura Cloud y Diseño de modelos de CI/CD
 
-Here are some ideas to get you started:
+### Github Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Prinick96 GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljesussp&count_private=true&show_icons=true&theme=onedark)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieljesussp&show_icons=true&theme=onedark&locale=en&layout=compact" alt="danieljesussp" /></p>
