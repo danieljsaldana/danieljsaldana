@@ -10,5 +10,5 @@ Soy DevOps/SRE🔥, con un background de SysAdmin y especializado en provedores 
 
 <br>
 
-![Prinick96 GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljesussp&count_private=true&show_icons=true&theme=onedark)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieljesussp&show_icons=true&theme=onedark&locale=en&layout=compact" alt="danieljesussp" /></p>
+![Prinick96 GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljsaldana&count_private=true&show_icons=true&theme=onedark)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieljsaldana&show_icons=true&theme=onedark&locale=en&layout=compact" alt="danieljesussp" /></p>
